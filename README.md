@@ -122,7 +122,9 @@ Seeking an entry-level Software Engineer position where I can apply my programmi
 
 📧 anjalichintalpally@email.com | 📞 +1-334-233-6430|.
 
-🔗 GitHub: https://github.com/anjali.
+🔗 GitHub: https://github.com/Anjali-AR/portfolio
 
-🔗 LinkedIn: https://linkedin.com/in/anjali.
+🔗 LinkedIn: www.linkedin.com/in/
+anjali-chintalpally-7aa173342
+
 
