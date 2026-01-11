@@ -4,7 +4,7 @@ Entry-level Software Engineer with a strong academic background in Computer Scie
 
  ## Education
 Master of Science in Computer Science.
-Auburn University at Montgomery (AUM), USA.
+Auburn University at Montgomery (AUM), USA. 
 Bachelor of Computer Applications (BCA).
 SASTRA University, Chennai, India.
 
