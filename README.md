@@ -1,6 +1,6 @@
 
 ## Professional Summary
-Entry-level Software Engineer with a strong academic background in Computer Science and hands-on experience gained through a Software Engineering Internship. Proficient in Python and Java, with foundational knowledge in machine learning and deep learning. Motivated to contribute to real-world software solutions, collaborate with teams, and continuously learn new technologies.
+Entry-level Software Engineer with a strong academic background in Computer Science and hands-on experience through internships and academic projects. Skilled in Python and Java with foundational knowledge in machine learning and deep learning. Passionate about building reliable software solutions and continuously improving technical skills.
 
  ## Education
  
@@ -12,16 +12,8 @@ Bachelor of Computer Applications (BCA).
 
 SASTRA University, Chennai, India.
 
-##Technical Skills
-Programming Languages: Python,C++.
-
-Web Technologies: HTML, CSS.
-
-Databases: MySQL.
-
-AI / ML: Neural Networks (Basics), Deep Learning Fundamentals.
-
-Tools & Platforms:GitHub, VS Code, Linux, Windows.
+## Technical Skills
+Python | Java | C | C++ | JavaScript | HTML | CSS | MySQL | Git | GitHub | Neural Networks | Deep Learning Basics | Linux
 
 
 ## Professional Experience
