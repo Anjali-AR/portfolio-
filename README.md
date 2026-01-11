@@ -3,22 +3,31 @@
 Entry-level Software Engineer with a strong academic background in Computer Science and hands-on experience gained through a Software Engineering Internship. Proficient in Python and Java, with foundational knowledge in machine learning and deep learning. Motivated to contribute to real-world software solutions, collaborate with teams, and continuously learn new technologies.
 
  ## Education
+ 
 Master of Science in Computer Science.
+
 Auburn University at Montgomery (AUM), USA. 
+
 Bachelor of Computer Applications (BCA).
+
 SASTRA University, Chennai, India.
 
 ##Technical Skills
 Programming Languages: Python,C++.
 
 Web Technologies: HTML, CSS.
+
 Databases: MySQL.
+
 AI / ML: Neural Networks (Basics), Deep Learning Fundamentals.
+
 Tools & Platforms:GitHub, VS Code, Linux, Windows.
 
 
 ## Professional Experience
+
 # HCL Technologies
+
 Software Engineer | Sep 2019 – 2024
 
 Promoted from Software Engineering Intern after demonstrating proficiency in programming, testing, and regulatory workflows.
@@ -50,6 +59,7 @@ BDMMS – CMPH (Becton Dickinson Medical Management System).
 •	Ensured high-quality labeled datasets by following strict annotation guidelines.
 
 •	Contributed to dataset accuracy improvements for computer vision models.
+
 ## Intern – Software Engineering | Sep 2019 – Jan 2021
 
 •	Completed a 1-year internship focused on programming fundamentals and on-the-job training.
@@ -103,11 +113,16 @@ Image Classification Using Neural Networks.
 •	Willingness to learn new technologies.
 
 ## Career Objective
+
 Seeking an entry-level Software Engineer position where I can apply my programming skills, grow as a developer, and contribute to impactful software solutions.
 
 ## Contact
-📍 United States
+
+📍 United States.
+
 📧 anjalichintalpally@email.com | 📞 +1-334-233-6430|.
+
 🔗 GitHub: https://github.com/anjali.
+
 🔗 LinkedIn: https://linkedin.com/in/anjali.
 
