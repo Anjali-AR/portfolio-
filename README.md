@@ -75,7 +75,7 @@ Overview
 
 Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
-ADAS project
+2460ee13e2747a8deb84db85956ccb473e8a724a
 
 Problem Statement
 
