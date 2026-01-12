@@ -81,7 +81,7 @@ Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
-ADAS project.docx
+<a href"ADAS project.docx">
 
 Data Annotator / Quality Analyst
 
