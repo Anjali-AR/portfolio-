@@ -67,29 +67,91 @@ BDMMS – CMPH (Becton Dickinson Medical Management System).
 
 ## Projects
 
-Image Classification Using Neural Networks.
+🔹 Project Title
 
-•	Designed and implemented a basic neural network for classifying RGB images into multiple categories.
+ADAS Data Annotation for Autonomous Driving Systems
 
-•	Applied data preprocessing techniques and evaluated model performance.
+Overview
 
-•	Technologies: Python, Deep Learning fundamentals.
+Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
-## Student Management System
+ADAS project
 
-•	Developed a CRUD-based application to manage student records efficiently.
+Problem Statement
 
-•	Integrated MySQL database and implemented basic authentication.
+Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
-•	Technologies: Java, MySQL.
+ADAS project
 
-## Personal Portfolio Website
+Data Annotator / Quality Analyst
 
-•	Built a responsive personal portfolio to showcase skills and projects.
+Responsibilities
 
-•	Focused on clean UI design and accessibility.
+Performed detailed data annotation on images, videos, and LiDAR point clouds using project-specific guidelines
 
-•	Technologies: HTML, CSS, JavaScript.
+Labeled objects such as vehicles, pedestrians, cyclists, traffic signs, traffic lights, lanes, and road boundaries
+
+Conducted quality assurance (QA) checks to ensure annotation accuracy, consistency, and compliance with standards
+
+Collaborated with QA and ML teams to correct errors and improve dataset quality
+
+Identified edge cases, ambiguous data, and potential bias in datasets and reported findings to project leads 
+
+ADAS project
+
+Technologies & Tools
+
+Programming:
+
+Basic Python (for data understanding and validation support)
+
+Tools:
+
+CVAT
+
+Labelbox
+
+SuperAnnotate
+
+Internal annotation platforms
+
+Database:
+
+Annotated datasets stored in structured formats (COCO, KITTI, YOLO, PASCAL VOC)
+
+Frameworks:
+
+Computer Vision annotation frameworks
+
+ML dataset pipelines for autonomous driving 
+
+ADAS project
+
+Key Features
+
+Bounding Box Annotation for object detection and collision avoidance
+
+Semantic & Instance Segmentation for road, lane, and obstacle identification
+
+Lane Annotation using polylines for lane departure and lane centering systems
+
+LiDAR Point Cloud Annotation for 3D object detection and depth estimation
+
+Multi-level Quality Assurance to ensure high dataset reliability 
+
+ADAS project
+
+Outcome / Impact
+
+Improved object detection and lane recognition accuracy for ADAS models
+
+Reduced model errors by providing high-quality, consistent annotated datasets
+
+Enabled safer driving decisions in autonomous systems through reliable training data
+
+Contributed to scalable and production-ready AI datasets for real-world automotive applications 
+
+ADAS project
 
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
