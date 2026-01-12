@@ -75,13 +75,13 @@ Overview
 
 Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
-2460ee13e2747a8deb84db85956ccb473e8a724a
+ADAS project.docx
 
 Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
-ADAS project
+ADAS project.docx
 
 Data Annotator / Quality Analyst
 
@@ -97,7 +97,7 @@ Collaborated with QA and ML teams to correct errors and improve dataset quality
 
 Identified edge cases, ambiguous data, and potential bias in datasets and reported findings to project leads 
 
-ADAS project
+ADAS project.docx
 
 Technologies & Tools
 
@@ -125,7 +125,7 @@ Computer Vision annotation frameworks
 
 ML dataset pipelines for autonomous driving 
 
-ADAS project
+ADAS project.docx
 
 Key Features
 
@@ -139,7 +139,7 @@ LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 
 Multi-level Quality Assurance to ensure high dataset reliability 
 
-ADAS project
+ADAS project.docx
 
 Outcome / Impact
 
@@ -151,7 +151,7 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
-ADAS project
+ADAS project.docx
 
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
