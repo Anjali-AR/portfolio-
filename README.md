@@ -81,11 +81,9 @@ Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
+## Data Annotator / Quality Analyst
 
-
-Data Annotator / Quality Analyst
-
-Responsibilities
+## Responsibilities
 
 Performed detailed data annotation on images, videos, and LiDAR point clouds using project-specific guidelines
 
@@ -99,34 +97,28 @@ Identified edge cases, ambiguous data, and potential bias in datasets and report
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
-Technologies & Tools
+## Technologies & Tools
 
-Programming:
+## Programming:
 
 Basic Python (for data understanding and validation support)
 
-Tools:
+## Tools:
 
-CVAT
+CVAT|Labelbox|SuperAnnotate|Internal annotation platforms|
 
-Labelbox
-
-SuperAnnotate
-
-Internal annotation platforms
-
-Database:
+## Database:
 
 Annotated datasets stored in structured formats (COCO, KITTI, YOLO, PASCAL VOC)
 
-Frameworks:
+## Frameworks:
 
 Computer Vision annotation frameworks
 
 ML dataset pipelines for autonomous driving 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
-Key Features
+## Key Features
 
 Bounding Box Annotation for object detection and collision avoidance
 
@@ -139,7 +131,7 @@ LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 Multi-level Quality Assurance to ensure high dataset reliability 
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
-Outcome / Impact
+## Outcome / Impact
 
 Improved object detection and lane recognition accuracy for ADAS models
 
