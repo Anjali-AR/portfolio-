@@ -170,10 +170,10 @@ ADAS project.docx
 
 Seeking an entry-level Software Engineer position where I can apply my programming skills, grow as a developer, and contribute to impactful software solutions.
 
-## Contact
+## Contact📞  
 
  📍 United States.
--📞  [Call Me](tel:+1334-233-6430)
+-[Call Me](tel:+1334-233-6430)
 - 🌐 [Portfolio](https://anjali-ar.github.io/portfolio-/)
 - 💼 [LinkedIn](www.linkedin.com/in/anjali-chintalpally-7aa173342)
 - 📧 [Email](anjalichintalpally@gmail.com)
