@@ -75,7 +75,7 @@ Overview
 
 Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
-https://github.com/Anjali-AR/portfolio-/blob/3d226d0187c5e00645921195e7df153a24a7b71e/ADAS%20project.docx
+[Project Report](docs/project-report.pdf)
 
 Problem Statement
 
