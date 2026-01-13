@@ -81,7 +81,7 @@ Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
-<a href"ADAS project.pdf">
+
 
 Data Annotator / Quality Analyst
 
@@ -97,7 +97,7 @@ Collaborated with QA and ML teams to correct errors and improve dataset quality
 
 Identified edge cases, ambiguous data, and potential bias in datasets and reported findings to project leads 
 
-ADAS project.docx
+[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
 Technologies & Tools
 
@@ -124,8 +124,7 @@ Frameworks:
 Computer Vision annotation frameworks
 
 ML dataset pipelines for autonomous driving 
-
-ADAS project.docx
+[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
 Key Features
 
@@ -139,8 +138,7 @@ LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 
 Multi-level Quality Assurance to ensure high dataset reliability 
 
-ADAS project.docx
-
+[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 Outcome / Impact
 
 Improved object detection and lane recognition accuracy for ADAS models
@@ -151,7 +149,7 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
-ADAS project.docx
+[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
@@ -173,7 +171,7 @@ Seeking an entry-level Software Engineer position where I can apply my programmi
 ## Contact:  
 
  📍 United States.
-- 📞[Call Me](tel:+1334-233-6430)
+- 📞 [Call Me](tel:+1334-233-6430)
 - 🌐 [Portfolio](https://anjali-ar.github.io/portfolio-/)
 - 💼 [LinkedIn](www.linkedin.com/in/anjali-chintalpally-7aa173342)
 - 📧 [Email](anjalichintalpally@gmail.com)
