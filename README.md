@@ -174,10 +174,10 @@ Seeking an entry-level Software Engineer position where I can apply my programmi
 
 📍 United States.
 
-  | 📞 +1-334-233-6430|
 
+-📞 [phone](+1-334-233-6430)
 - 🌐 [Portfolio](https://anjali-ar.github.io/portfolio-/)
 - 💼 [LinkedIn](www.linkedin.com/in/anjali-chintalpally-7aa173342)
-- 📧 [Email](mailto:anjalichintalpally@gmail.com)
-- 🐙 [GitHub](https://github.com/Anjali-AR/portfolio)
+- 📧 [Email](anjalichintalpally@gmail.com)
+
 
