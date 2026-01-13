@@ -2,7 +2,7 @@
 ## Professional Summary
 Entry-level Software Engineer with a strong academic background in Computer Science and hands-on experience through internships and academic projects. Skilled in Python and Java with foundational knowledge in machine learning and deep learning. Passionate about building reliable software solutions and continuously improving technical skills.
 
- ## Education
+## Education
  
 Master of Science in Computer Science.
 
