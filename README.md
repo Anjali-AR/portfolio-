@@ -67,17 +67,15 @@ BDMMS – CMPH (Becton Dickinson Medical Management System).
 
 ## Projects
 
-🔹 Project Title
+## Project Title: ADAS Data Annotation for Autonomous Driving Systems
 
-ADAS Data Annotation for Autonomous Driving Systems
-
-Overview
+## Overview
 
 Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
-Problem Statement
+## Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
 
@@ -116,6 +114,7 @@ Annotated datasets stored in structured formats (COCO, KITTI, YOLO, PASCAL VOC)
 Computer Vision annotation frameworks
 
 ML dataset pipelines for autonomous driving 
+
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
 ## Key Features
@@ -130,7 +129,9 @@ LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 
 Multi-level Quality Assurance to ensure high dataset reliability 
 
+
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
+
 ## Outcome / Impact
 
 Improved object detection and lane recognition accuracy for ADAS models
@@ -140,6 +141,7 @@ Reduced model errors by providing high-quality, consistent annotated datasets
 Enabled safer driving decisions in autonomous systems through reliable training data
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
+
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
