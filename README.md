@@ -75,6 +75,8 @@ Worked on annotating and validating large-scale sensor data (images, videos, and
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
+
+
 ## Problem Statement
 
 Raw sensor data from cameras and LiDAR cannot be directly understood by AI models. Without accurate annotations, ADAS systems fail to detect objects, lanes, and road conditions, leading to unsafe or unreliable driving decisions. 
@@ -94,6 +96,7 @@ Collaborated with QA and ML teams to correct errors and improve dataset quality
 Identified edge cases, ambiguous data, and potential bias in datasets and reported findings to project leads 
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
+
 
 ## Technologies & Tools
 
@@ -128,6 +131,7 @@ Lane Annotation using polylines for lane departure and lane centering systems
 LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 
 Multi-level Quality Assurance to ensure high dataset reliability 
+
 
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
