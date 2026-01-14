@@ -101,7 +101,6 @@ Identified edge cases, ambiguous data, and potential bias in datasets and report
 
 ![image](ADAS 2.png).
 
-![image](cvat.png).
 
 ## Technologies & Tools
 
@@ -113,6 +112,7 @@ Basic Python (for data understanding and validation support)
 
 CVAT|Labelbox|SuperAnnotate|Internal annotation platforms|
 
+![image](cvat.png).
 
 ## Database:
 
