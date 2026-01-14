@@ -101,6 +101,8 @@ Identified edge cases, ambiguous data, and potential bias in datasets and report
 
 ![image](ADAS 2.png).
 
+![image](cvat.png).
+
 ## Technologies & Tools
 
 ## Programming:
