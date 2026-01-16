@@ -139,7 +139,7 @@ LiDAR Point Cloud Annotation for 3D object detection and depth estimation
 Multi-level Quality Assurance to ensure high dataset reliability 
 
 
-
+[Watch Video](ADAS223.mp4).
 
 ## Outcome / Impact
 
@@ -151,7 +151,7 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
-[Watch Video](ADAS223.mp4).
+
 
 
 [Reference](What is ADAS.pdf)
