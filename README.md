@@ -152,7 +152,7 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
 ![video](ADAS223.mp4)
-
+[Watch the ADAS Annotation Demo](https://ADAS223.mp4)
 [Reference](What is ADAS.pdf)
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
