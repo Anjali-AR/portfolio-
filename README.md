@@ -98,7 +98,9 @@ Used TrackWise for complaint handling, CAPA, and quality management processes
 Utilized SAP for data tracking, reporting, and enterprise integration
 
 Collaborated with cross-functional teams (QA, Regulatory, Engineering) to meet quality standards and project deadlines
-
+![image](MDR.png)
+![image]()
+![image]()
 ## Technologies & Tools
 
 ## Tools: TrackWise, SAP
