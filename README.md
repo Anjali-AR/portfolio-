@@ -24,9 +24,9 @@ Software Engineer | Sep 2019 – 2024
 
 Promoted from Software Engineering Intern after demonstrating proficiency in programming, testing, and regulatory workflows.
 
-Key Projects:
+## Key Projects:
 
-BDMMS – CMPH (Becton Dickinson Medical Management System).    
+## BDMMS – CMPH (Becton Dickinson Medical Management System).    
 
 •	Served as Software Engineer and Product Regulatory Analyst on a medical device compliance project.
 
@@ -83,7 +83,7 @@ Medical device companies must comply with strict regulatory standards to ensure 
 
 Software Engineer & Product Regulatory Analyst
 
- ## Responsibilities
+## Responsibilities
 
 Managed medical device complaints across the complete regulatory lifecycle
 
