@@ -154,7 +154,7 @@ Contributed to scalable and production-ready AI datasets for real-world automoti
 
 
 [Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
-
+[image](ADAS223.mp4)
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
 
