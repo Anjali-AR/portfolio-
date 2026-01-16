@@ -67,6 +67,57 @@ BDMMS – CMPH (Becton Dickinson Medical Management System).
 
 ## Projects
 
+## Project 1: BDMMS – CMPH
+
+## project Name : Becton Dickinson Medical Management System.
+
+ ## Overview
+
+BDMMS–CMPH is an enterprise-level medical device complaint management system designed to ensure regulatory compliance with global health authorities such as the FDA. The system supports end-to-end complaint handling, reporting, and quality management for medical devices.
+
+## Problem Statement
+
+Medical device companies must comply with strict regulatory standards to ensure patient safety. Managing large volumes of complaints while maintaining accuracy, traceability, and compliance is complex and error-prone without a structured system.
+
+## My Role
+
+Software Engineer & Product Regulatory Analyst
+
+ ## Responsibilities
+
+Managed medical device complaints across the complete regulatory lifecycle
+
+Created and reviewed Medical Device Reports (MDRs) in compliance with FDA regulations
+
+Performed detailed quality check (QC) analysis to ensure data accuracy, consistency, and regulatory adherence
+
+Supported investigation workflows, documentation, and compliance reporting
+
+Used TrackWise for complaint handling, CAPA, and quality management processes
+
+Utilized SAP for data tracking, reporting, and enterprise integration
+
+Collaborated with cross-functional teams (QA, Regulatory, Engineering) to meet quality standards and project deadlines
+
+## Technologies & Tools
+
+## Tools: TrackWise, SAP
+
+## Domain: Medical Device Compliance, Regulatory Affairs
+
+## Standards: FDA MDR, Quality Management Systems (QMS)
+
+## Outcome / Impact
+
+Ensured regulatory-compliant handling of medical device complaints.
+
+Improved data accuracy and reporting efficiency through structured QC processes.
+
+Contributed to maintaining high compliance standards for medical device safety.
+
+Supported timely submission of regulatory reports and audits.
+
+## Project 2:.
 ## Project Title: ADAS Data Annotation for Autonomous Driving Systems
 
 ## Overview
