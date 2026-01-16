@@ -20,7 +20,7 @@ Python | Java | C | C++ | JavaScript | HTML | CSS | MySQL | Git | GitHub | Neura
 
 # HCL Technologies
 
-Software Engineer | Sep 2019 – 2024
+## Software Engineer | Sep 2019 – 2024
 
 Promoted from Software Engineering Intern after demonstrating proficiency in programming, testing, and regulatory workflows.
 
@@ -69,7 +69,7 @@ Promoted from Software Engineering Intern after demonstrating proficiency in pro
 
 ## Project 1: BDMMS – CMPH
 
-## project Name : Becton Dickinson Medical Management System
+## project Name : Becton Dickinson Medical Management System.
 
 
 ## Overview
@@ -82,7 +82,7 @@ Medical device companies must comply with strict regulatory standards to ensure 
 
 ## My Role
 
-Software Engineer & Product Regulatory Analyst
+Software Engineer & Product Regulatory Analyst.
 
 ## Responsibilities
 
@@ -117,7 +117,7 @@ Improved data accuracy and reporting efficiency through structured QC processes.
 Contributed to maintaining high compliance standards for medical device safety.
 
 Supported timely submission of regulatory reports and audits.
-![image](MDR.png)
+![image](MDR11.png)
 ![image](trackwise.png)
 ![image](2mdr.png)
 
