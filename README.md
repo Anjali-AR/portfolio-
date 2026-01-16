@@ -73,7 +73,7 @@ BDMMS – CMPH (Becton Dickinson Medical Management System).
 
 Worked on annotating and validating large-scale sensor data (images, videos, and LiDAR) to support machine learning models used in Advanced Driver Assistance Systems (ADAS) for autonomous and semi-autonomous vehicles. 
 
-[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
+
 
 
 
@@ -95,7 +95,7 @@ Collaborated with QA and ML teams to correct errors and improve dataset quality
 
 Identified edge cases, ambiguous data, and potential bias in datasets and reported findings to project leads 
 
-[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf).
+
 
 ![image](1.ADAS.png).
 
@@ -124,7 +124,7 @@ Computer Vision annotation frameworks
 
 ML dataset pipelines for autonomous driving 
 
-[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
+
 
 ## Key Features
 
@@ -140,7 +140,6 @@ Multi-level Quality Assurance to ensure high dataset reliability
 
 
 
-[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 
 ## Outcome / Impact
 
@@ -152,8 +151,6 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
-
-[Project Report](https://github.com/Anjali-AR/portfolio-/blob/2ad3dd9733252d3861d98964031e9f12116ba0fd/ADAS%20project.pdf)
 ![image](ADAS223.mp4)
 ## Certifications
 •	NVIDIA – Fundamentals of Deep Learning.
