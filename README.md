@@ -151,7 +151,7 @@ Enabled safer driving decisions in autonomous systems through reliable training 
 
 Contributed to scalable and production-ready AI datasets for real-world automotive applications 
 
-![image](ADAS223.mp4)
+![video](ADAS223.mp4)
 
 [Reference](What is ADAS.pdf)
 ## Certifications
