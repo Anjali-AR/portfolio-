@@ -98,9 +98,7 @@ Used TrackWise for complaint handling, CAPA, and quality management processes
 Utilized SAP for data tracking, reporting, and enterprise integration
 
 Collaborated with cross-functional teams (QA, Regulatory, Engineering) to meet quality standards and project deadlines
-![image](MDR.png)
-![image](trackwise.png)
-![image]()
+
 ## Technologies & Tools
 
 ## Tools: TrackWise, SAP
@@ -118,6 +116,9 @@ Improved data accuracy and reporting efficiency through structured QC processes.
 Contributed to maintaining high compliance standards for medical device safety.
 
 Supported timely submission of regulatory reports and audits.
+![image](MDR.png)
+![image](trackwise.png)
+![image](2mdr.png)
 
 ## Project 2:.
 ## Project Title: ADAS Data Annotation for Autonomous Driving Systems
