@@ -69,9 +69,10 @@ Promoted from Software Engineering Intern after demonstrating proficiency in pro
 
 ## Project 1: BDMMS – CMPH
 
-## project Name : Becton Dickinson Medical Management System.
+## project Name : Becton Dickinson Medical Management System
 
- ## Overview
+
+## Overview
 
 BDMMS–CMPH is an enterprise-level medical device complaint management system designed to ensure regulatory compliance with global health authorities such as the FDA. The system supports end-to-end complaint handling, reporting, and quality management for medical devices.
 
@@ -120,7 +121,7 @@ Supported timely submission of regulatory reports and audits.
 ![image](trackwise.png)
 ![image](2mdr.png)
 
-## Project 2:.
+## Project 2:
 ## Project Title: ADAS Data Annotation for Autonomous Driving Systems
 
 ## Overview
