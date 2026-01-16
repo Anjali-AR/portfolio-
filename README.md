@@ -99,7 +99,7 @@ Utilized SAP for data tracking, reporting, and enterprise integration
 
 Collaborated with cross-functional teams (QA, Regulatory, Engineering) to meet quality standards and project deadlines
 ![image](MDR.png)
-![image]()
+![image](trackwise.png)
 ![image]()
 ## Technologies & Tools
 
